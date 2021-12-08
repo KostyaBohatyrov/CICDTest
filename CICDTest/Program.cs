@@ -9,7 +9,7 @@ namespace CICDTest
             Console.WriteLine("Start");
             Console.WriteLine("Hello World!");
             Console.WriteLine("End");
-            Console.WriteLine("Master6");
+            Console.WriteLine("Master7");
         }
     }
 }
