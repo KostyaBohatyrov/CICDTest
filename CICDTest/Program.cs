@@ -8,7 +8,7 @@ namespace CICDTest
         {
             Console.WriteLine("Start");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("End1scdj2");
+            Console.WriteLine("End1swercdj2");
         }
     }
 }
