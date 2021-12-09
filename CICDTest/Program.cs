@@ -9,7 +9,8 @@ namespace CICDTest
             Console.WriteLine("Start");
             Console.WriteLine("Hello World!");
             Console.WriteLine("End");
-            Console.WriteLine("Master10");
+            Console.WriteLine("dev1");
+            Console.WriteLine("To merge on dev");
         }
     }
 }
