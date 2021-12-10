@@ -8,7 +8,7 @@ namespace CICDTest
         {
             Console.WriteLine("Start");
 
-            Console.WriteLine("Pipeline6");
+            Console.WriteLine("Pipeline7");
 
             Console.WriteLine("End");
         }
