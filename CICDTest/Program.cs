@@ -6,9 +6,6 @@ namespace CICDTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Start");
-            Console.WriteLine("Helqqo Wofbsstt2cr2ad!");
-            Console.WriteLine("Enddd2edsvafd245336zsvzasda456456sdsssssetsdfsdfeeawdwadtretraasa46645rssssyyytag-46zsvww2");
             Console.WriteLine("Add cw to main");
             Console.WriteLine("Add one more cw to main");
         }
