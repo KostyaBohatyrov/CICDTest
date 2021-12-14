@@ -13,9 +13,5 @@ namespace CICDTest
             Console.WriteLine("End");
         }
 
-        private void Toipic()
-        {
-
-        }
     }
 }
