@@ -6,11 +6,6 @@ namespace CICDTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Start");
-
-            Console.WriteLine("Pipeline9");
-
-            Console.WriteLine("End");
         }
 
     }
