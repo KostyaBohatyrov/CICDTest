@@ -9,5 +9,7 @@ namespace CICDTest
     class Class1
     {
         public int MyProperty { get; set; }
+
+        public int Test { get; set; }
     }
 }
