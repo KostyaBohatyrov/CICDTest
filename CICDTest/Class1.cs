@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CICDTest
+﻿namespace CICDTest
 {
     class Class1
     {
+        public int Counter { get; set; }
     }
 }
