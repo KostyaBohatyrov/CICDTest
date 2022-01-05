@@ -9,6 +9,8 @@ namespace CICDTest
             Console.WriteLine("adasds");
         }
 
-        private void KKK() { }
+        private void KKK() {
+            Console.WriteLine();
+        }
     }
 }
