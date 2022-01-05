@@ -7,5 +7,10 @@ namespace CICDTest
         static void Main(string[] args)
         {
         }
+
+        private void D()
+        {
+
+        }
     }
 }
