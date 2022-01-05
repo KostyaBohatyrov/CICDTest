@@ -8,5 +8,6 @@ namespace CICDTest
         {
         }
 
+        private void KKK() { }
     }
 }
