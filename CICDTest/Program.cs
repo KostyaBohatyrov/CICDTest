@@ -9,6 +9,8 @@ namespace CICDTest
             Console.WriteLine();
         }
 
-        private void KKK() { }
+        private void KKK() {
+            Console.WriteLine();
+        }
     }
 }
