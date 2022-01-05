@@ -7,6 +7,7 @@ namespace CICDTest
         static void Main(string[] args)
         {
             Console.WriteLine("string");
+            Console.WriteLine("aaa");
         }
     }
 }
