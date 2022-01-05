@@ -4,6 +4,9 @@ namespace CICDTest
 {
     class Program
     {
-        Console.WriteLine();
+        private static void Main(string[] args)
+        {
+            Console.WriteLine();
+        }
     }
 }
