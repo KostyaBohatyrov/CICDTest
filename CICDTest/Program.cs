@@ -9,5 +9,6 @@ namespace CICDTest
             Console.WriteLine("adasds");
         }
 
+        private void KKK() { }
     }
 }
